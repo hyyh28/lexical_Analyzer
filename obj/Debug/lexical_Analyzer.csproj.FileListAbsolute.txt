@@ -1,0 +1,5 @@
+/Users/huayun/Desktop/c#project/lexical_Analyzer/bin/Debug/lexical_Analyzer.exe
+/Users/huayun/Desktop/c#project/lexical_Analyzer/bin/Debug/lexical_Analyzer.exe.mdb
+/Users/huayun/Desktop/c#project/lexical_Analyzer/obj/Debug/lexical_Analyzer.csprojResolveAssemblyReference.cache
+/Users/huayun/Desktop/c#project/lexical_Analyzer/obj/Debug/lexical_Analyzer.exe
+/Users/huayun/Desktop/c#project/lexical_Analyzer/obj/Debug/lexical_Analyzer.exe.mdb
